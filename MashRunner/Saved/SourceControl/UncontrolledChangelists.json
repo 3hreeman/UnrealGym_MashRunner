@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_MashRunner/MashRunner/Content/Blueprints/Enums/E_Input.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_MashRunner/MashRunner/Content/Blueprints/BP_Runner.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_MashRunner/MashRunner/Content/Curves/C_SpeedIncreaseRamp.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_MashRunner/MashRunner/Content/Curves/C_SpeedDecreaseRamp.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_02/MashRunner/Content/Maps/MAP_Debug.umap",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_02/MashRunner/Content/PaperAssets/Runner/FB_Runner_Idle.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_02/MashRunner/Content/Blueprints/BP_Runner.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_02/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_9.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_02/MashRunner/Content/Input/IMC_Runner.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_02/MashRunner/Content/PaperAssets/Runner/FB_Runner_Run.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_02/MashRunner/Content/Input/Actions/IA_PowerLeft.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_02/MashRunner/Content/Input/Actions/IA_PowerRight.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_02/MashRunner/Content/PaperAssets/Background/T_Field.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_02/MashRunner/Content/PaperAssets/Background/T_Field_Sprite.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_02/MashRunner/Content/PaperAssets/Goal/T_Goal_Connected.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_02/MashRunner/Content/PaperAssets/Goal/T_Goal_Connected_Sprite.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_02/MashRunner/Content/PaperAssets/Goal/T_Goal_Ripped.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_02/MashRunner/Content/PaperAssets/Goal/T_Goal_Ripped_Sprite.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_02/MashRunner/Content/PaperAssets/Runner/T_Runner.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_02/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_02/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_0.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_02/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_1.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_02/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_2.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_02/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_3.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_02/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_4.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_02/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_5.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_02/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_6.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_02/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_7.uasset",
+				"D:/_project/Unreal/UnrealGym_01/UnrealGym_02/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_8.uasset"
+			]
+		}
+	]
+}
